@@ -1,6 +1,6 @@
 import g4f
 import sys
-import pyperclip-termux
+import pyperclip
 try:
     args = ''
 
